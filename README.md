@@ -15,8 +15,12 @@ beginners
     <li></li>顺序two
     <li></li>顺序three
   </ul>
-  <img src="#" alt="图片不见了（the picture is gone）"><br />
-  <a href="http://baidu.com"></a>
- <!---->
+  <img src="#" alt="图片不见了（the picture is gone）">
+  <!--在这边我忘了给属性了-->
+  <a href="http://baidu.com">百度</a>
+  <a href="www.google.com">
+      <seciton><em>谷歌比百度好用</em></seciton>
+  </a>
+
 </main>
 </html>
